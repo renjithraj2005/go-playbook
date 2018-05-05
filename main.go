@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"go-playbook/concurrency"
 	"go-playbook/function"
+	"go-playbook/orm"
 	"math"
 	"math/rand"
 )
@@ -82,4 +83,5 @@ func main() {
 	//reader()
 	//concurrency.Routine()
 	concurrency.Select()
+	orm.InitORM()
 }

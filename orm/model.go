@@ -1,6 +1,8 @@
 package orm
 
 import (
+	"fmt"
+
 	"github.com/jinzhu/gorm"
 )
 
@@ -13,4 +15,8 @@ type User struct {
 	Email      string
 	Gender     string
 	City       string
+}
+
+func (u User) String() string {
+	return fmt.Sprintf("%v (City : %v )", u.Name, u.City)
 }

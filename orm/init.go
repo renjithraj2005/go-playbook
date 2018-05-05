@@ -1,6 +1,8 @@
 package orm
 
 import (
+	"fmt"
+
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite" // need go-sqlite3 https://github.com/mattn/go-sqlite3
 )
@@ -27,9 +29,9 @@ func InitORM() {
 	db.First(&user, 1)                     // find user with id 1
 	db.First(&user, "name = ?", "Renjith") // find user with name Renjith
 
+	fmt.Println(user)
 	// Update - update user's city to Kochi
 	db.Model(&user).Update("City", "Kochi")
-
 	// Delete - delete product
 	db.Delete(&user)
 }
