@@ -81,5 +81,5 @@ func main() {
 	//errorExample()
 	//reader()
 	//concurrency.Routine()
-	concurrency.Channel()
+	concurrency.Select()
 }
