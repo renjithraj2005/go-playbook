@@ -6,3 +6,5 @@
 * move to GOPATH : cd $GOPATH
 * Build : go build go-playbook
 * Run : ./go-playbook
+
+### INDEX : TODO
