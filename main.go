@@ -75,5 +75,5 @@ func main() {
 	//arraySlice()
 	//sliceOfSlice()
 	//rangeSample()
-	interfaceValues()
+	typeAssertions()
 }
