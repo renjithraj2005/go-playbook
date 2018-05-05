@@ -8,6 +8,13 @@
 * Run : ./go-playbook
 
 ### INDEX : TODO
+* package : main.go
+* import : main.go
+* exported-name : main.go
+* function : function/function.go
+* variables : main.go
+* constants : main.go
+* for : control/control.go
 
 ### ORM 
 * This package is sample with GORM and sqlite
