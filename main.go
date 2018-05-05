@@ -75,5 +75,8 @@ func main() {
 	//arraySlice()
 	//sliceOfSlice()
 	//rangeSample()
-	typeAssertions()
+	//typeAssertions()
+	//stringers()
+	//errorExample()
+	reader()
 }
