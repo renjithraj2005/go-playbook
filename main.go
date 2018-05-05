@@ -4,6 +4,7 @@ package main
 //import "math" // This can be optimised as below
 import (
 	"fmt"
+	"go-playbook/concurrency"
 	"go-playbook/function"
 	"math"
 	"math/rand"
@@ -78,5 +79,6 @@ func main() {
 	//typeAssertions()
 	//stringers()
 	//errorExample()
-	reader()
+	//reader()
+	concurrency.Routine()
 }
