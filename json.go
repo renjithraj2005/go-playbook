@@ -41,7 +41,7 @@ func jsonsample() {
 	fmt.Printf("Name: %v, City: %v\n", person.Name, person.City)
 
 	// read json in from a file
-	file, err := ioutil.ReadFile("./extras/names.json")
+	file, err := ioutil.ReadFile("/Users/renjith/go/src/go-playbook/json/names.json")
 	if err != nil {
 		fmt.Println("Error reading file")
 	}
