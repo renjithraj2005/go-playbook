@@ -43,8 +43,18 @@ This is a set of example programs in Go (golang) to learn Go. The Go language is
 * install GORM and go-sqlite3 (go get -u github.com/jinzhu/gorm , go get github.com/mattn/go-sqlite3)
 * Refer the orm/init.go for the implementation
 
-## Other references
-* https://tour.golang.org/welcome/1
+## Contribute
+
+corrections and any contributions are encouraged, please submit a pull request with your change or an issue for a bug or fix.
+
+## Resources
+
+This set of examples assumes a certain level of programming experience and is intended for someone learning the Go language and not someone new to programming altogether.
+
+The official site has a [Tour of Go](http://tour.golang.org/) which is an interactive walk through, another good introduction to the language.
+
+### Other references
 * https://gobyexample.com/
 * https://golang.org/doc/
 * https://github.com/mkaz/working-with-go/tree/master/euler
+* https://github.com/GoesToEleven/GolangTraining
