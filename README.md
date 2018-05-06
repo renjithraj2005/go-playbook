@@ -14,12 +14,22 @@ This is a set of example programs in Go (golang) to learn Go. The Go language is
 * import : main.go
 * exported-name : main.go
 * function : function/function.go
+* function values : function-values.go
 * variables : main.go
 * constants : main.go
 * for : control/control.go
+* switch : switch.go
 * array : array.go
-* interface : interface.go
-
+* array slice : array_slice.go , making-slice.go , slice_literals.go, slice-len-cap.go
+* struct : struct.go
+* interface : interface.go , interface-values.go , interfaces-are-satisfied-implicitly.go
+* empty interface : empty-interface.go
+* method : method.go
+* range : range.go
+* stringers : stringers.go
+* error : error.go
+* type switch : type-assertions.go
+* concurrency : package concurrency
 
 ### Advanced
 * oops : object-oriented-implementations.go
