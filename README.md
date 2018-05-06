@@ -47,3 +47,4 @@ This is a set of example programs in Go (golang) to learn Go. The Go language is
 * https://tour.golang.org/welcome/1
 * https://gobyexample.com/
 * https://golang.org/doc/
+* https://github.com/mkaz/working-with-go/tree/master/euler
