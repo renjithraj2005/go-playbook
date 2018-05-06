@@ -8,16 +8,24 @@
 * Run : ./go-playbook
 
 ### INDEX : TODO
-* package : main.go
+* package : main.go , package.go
 * import : main.go
 * exported-name : main.go
 * function : function/function.go
 * variables : main.go
 * constants : main.go
 * for : control/control.go
+* array : array.go
+* interface : interface.go
 
-### ORM 
+
+### Advanced
+* oops : object-oriented-implementations.go
+* http : http.go
+* web : web-app-base.go
+* time and date : time-date.go
+
+### ORM
 * This package is sample with GORM and sqlite
 * install GORM and go-sqlite3 (go get -u github.com/jinzhu/gorm , go get github.com/mattn/go-sqlite3)
-* Refer the orm/init.go for the implementation 
-
+* Refer the orm/init.go for the implementation
