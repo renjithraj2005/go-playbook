@@ -58,3 +58,5 @@ The official site has a [Tour of Go](http://tour.golang.org/) which is an intera
 * https://golang.org/doc/
 * https://github.com/mkaz/working-with-go/tree/master/euler
 * https://github.com/GoesToEleven/GolangTraining
+* [A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
+* [Gophers Slack Channel](http://gophers.slack.com/messages/awesome)
