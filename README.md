@@ -21,10 +21,10 @@ This is a set of example programs in Go (golang) to learn Go. The Go language is
 * switch : switch.go
 * defer : defer.go
 * pointer : pointer.go
-* array : array.go
-* array slice : array_slice.go , making-slice.go , slice_literals.go, slice-len-cap.go
 * struct : struct.go
 * struct literals : struct-literals.go
+* array : array.go
+* array slice : array_slice.go , making-slice.go , slice_literals.go, slice-len-cap.go
 * interface : interface.go , interface-values.go , interfaces-are-satisfied-implicitly.go
 * empty interface : empty-interface.go
 * method : method.go
