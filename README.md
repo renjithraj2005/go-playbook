@@ -1,5 +1,7 @@
 ## Go For Beginners
 
+This is a set of example programs in Go (golang) to learn Go. The Go language is often referred to as golang to help searches.
+
 ### How to run ?
 * Install GO (https://golang.org/doc/install)
 * Setup GOPATH (https://github.com/golang/go/wiki/SettingGOPATH)
