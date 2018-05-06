@@ -84,5 +84,6 @@ func main() {
 	//orm.InitORM()
 	//fetch() // a sample http client implementation in go
 	//oops()
-	timeDate()
+	//timeDate()
+	jsonsample()
 }
