@@ -66,3 +66,10 @@ The official site has a [Tour of Go](http://tour.golang.org/) which is an intera
 * [Go ORM](https://github.com/jinzhu/gorm)
 * [Go dependency management tool](https://github.com/golang/dep)
 * [Gophers Slack Channel](http://gophers.slack.com/messages/awesome)
+
+### Blogs & Articles
+* [Why should you learn Go](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
+* [Memory Optimization In Golang ](https://medium.com/@edwardpie/memory-optimization-in-golang-trick-1-59c4a983d015)
+* https://blog.gojekengineering.com/the-many-flavours-of-dependency-injection-in-go-25aa070d79a0
+* [Golang Guide: A List of Top Golang Frameworks, IDEs & Tools](https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9)
+* [Exceptional Go](https://medium.com/@mattklein123/exceptional-go-1dd1488a6a47)
