@@ -61,4 +61,5 @@ The official site has a [Tour of Go](http://tour.golang.org/) which is an intera
 * [A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
 * [Web Frameworks](https://github.com/mingrammer/go-web-framework-stars)
 * [Go ORM](https://github.com/jinzhu/gorm)
+* [Go dependency management tool](https://github.com/golang/dep)
 * [Gophers Slack Channel](http://gophers.slack.com/messages/awesome)
