@@ -4,9 +4,7 @@ package main
 //import "math" // This can be optimised as below
 import (
 	"fmt"
-	"go-playbook/concurrency"
 	"go-playbook/function"
-	"go-playbook/orm"
 	"math"
 	"math/rand"
 )
@@ -82,6 +80,7 @@ func main() {
 	//errorExample()
 	//reader()
 	//concurrency.Routine()
-	concurrency.Select()
-	orm.InitORM()
+	//concurrency.Select()
+	//orm.InitORM()
+	//fetch() // a sample http client implementation in go
 }
