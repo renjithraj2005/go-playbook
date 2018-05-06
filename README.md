@@ -13,15 +13,18 @@ This is a set of example programs in Go (golang) to learn Go. The Go language is
 * package : main.go , package.go
 * import : main.go
 * exported-name : main.go
-* function : function/function.go
+* function, named return values : package go-playbook/function
 * function values : function-values.go
-* variables : main.go
-* constants : main.go
+* variables , short variable declarations: main.go
+* constants : package go-playbook/function
 * for : control/control.go
 * switch : switch.go
+* defer : defer.go
+* pointer : pointer.go
 * array : array.go
 * array slice : array_slice.go , making-slice.go , slice_literals.go, slice-len-cap.go
 * struct : struct.go
+* struct literals : struct-literals.go
 * interface : interface.go , interface-values.go , interfaces-are-satisfied-implicitly.go
 * empty interface : empty-interface.go
 * method : method.go
