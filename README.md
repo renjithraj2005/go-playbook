@@ -73,3 +73,7 @@ The official site has a [Tour of Go](http://tour.golang.org/) which is an intera
 * https://blog.gojekengineering.com/the-many-flavours-of-dependency-injection-in-go-25aa070d79a0
 * [Golang Guide: A List of Top Golang Frameworks, IDEs & Tools](https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9)
 * [Exceptional Go](https://medium.com/@mattklein123/exceptional-go-1dd1488a6a47)
+* https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d
+* https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d
+* https://itnext.io/strings-in-go-golang-b8c78bae8132
+* https://medium.com/@raul_11817/securing-golang-api-using-json-web-token-jwt-2dc363792a48
