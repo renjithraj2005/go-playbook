@@ -40,6 +40,8 @@ This is a set of example programs in Go (golang) to learn Go. The Go language is
 * web : web-app-base.go
 * time and date : time-date.go
 * jason : json.go
+* [The Go Programming Language Specification
+](https://golang.org/ref/spec)
 
 ### ORM
 * This package is sample with GORM and sqlite
