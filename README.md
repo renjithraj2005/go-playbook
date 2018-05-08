@@ -73,6 +73,7 @@ The official site has a [Tour of Go](http://tour.golang.org/) which is an intera
 * [Go dependency management tool](https://github.com/golang/dep)
 * [Gophers Slack Channel](http://gophers.slack.com/messages/awesome)
 * [The Go Memory Model](https://golang.org/ref/mem)
+* [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 
 ### Blogs & Articles
 * [Why should you learn Go](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
