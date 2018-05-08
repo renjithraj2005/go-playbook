@@ -46,7 +46,7 @@ This is a set of example programs in Go (golang) to learn Go. The Go language is
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 
 ### ORM
-* This package is sample with GORM and sqlite
+* This package is a sample with GORM and sqlite
 * install GORM and go-sqlite3 (go get -u github.com/jinzhu/gorm , go get github.com/mattn/go-sqlite3)
 * Refer the orm/init.go for the implementation
 
