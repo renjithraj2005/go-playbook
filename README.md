@@ -44,6 +44,7 @@ This is a set of example programs in Go (golang) to learn Go. The Go language is
 ](https://golang.org/ref/spec)
 * [The Go Memory Model](https://golang.org/ref/mem)
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
+* [Go Wiki](https://github.com/golang/go/wiki)
 
 ### ORM
 * This package is a sample with GORM and sqlite
@@ -74,6 +75,7 @@ The official site has a [Tour of Go](http://tour.golang.org/) which is an intera
 * [Go ORM](https://github.com/jinzhu/gorm)
 * [Go dependency management tool](https://github.com/golang/dep)
 * [Gophers Slack Channel](http://gophers.slack.com/messages/awesome)
+
 
 
 ### Blogs & Articles
