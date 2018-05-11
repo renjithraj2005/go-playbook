@@ -49,6 +49,10 @@ This is a set of example programs in Go (golang) to learn Go. The Go language is
 * [Search for Go Packages](https://godoc.org/)
 * [Projects](https://github.com/golang/go/wiki/Project)
 * [Dep management](https://github.com/golang/go/wiki/PackageManagementTools)
+* [The Vendor Tool for Go](https://github.com/kardianos/govendor)
+
+### GO Vendor
+* https://github.com/sayonetech/morningo
 
 ### ORM
 * This package is a sample with GORM and sqlite
