@@ -45,6 +45,10 @@ This is a set of example programs in Go (golang) to learn Go. The Go language is
 * [The Go Memory Model](https://golang.org/ref/mem)
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 * [Go Wiki](https://github.com/golang/go/wiki)
+* [Go Package](https://go-search.org/)
+* [Search for Go Packages](https://godoc.org/)
+* [Projects](https://github.com/golang/go/wiki/Project)
+* [Dep management](https://github.com/golang/go/wiki/PackageManagementTools)
 
 ### ORM
 * This package is a sample with GORM and sqlite
